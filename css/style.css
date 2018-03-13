@@ -122,3 +122,12 @@ body {
     top: 92%;
     left: 60%;
 }
+
+.active {
+    background-color: #fff;
+}
+
+strong {
+    font-weight: 900;
+    font-size: 40px;
+}
